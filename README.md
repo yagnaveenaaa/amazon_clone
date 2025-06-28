@@ -1,20 +1,40 @@
-<<<<<<< HEAD
-# amazon_clone
+# 🛍️ Amazon Clone - Flutter + Firebase
 
-A new Flutter project.
+A simple Amazon clone mobile application built using **Flutter** and **Firebase**.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- User Authentication (Signup, Login)
+- Product Listing
+- Cart Management
+- Search Functionality
+- Admin Panel for Product Uploads
+- Firebase Integration for Auth & Database
 
-A few resources to get you started if this is your first Flutter project:
+## 🧑‍💻 Developed By
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**Yagnaveena**  
+Intern Project  
+Package Name: `com.yagnaveena.amazon_clone`
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
+## 🚀 Getting Started
 
->>>>>>> 23996bd6a52e1f80083c5c449ae5f5354c434fb8
+To run this project:
+
+1. Clone the repository
+2. Run `flutter pub get`
+3. Make sure `google-services.json` is placed in `android/app/`
+4. Run with `flutter run`
+
+## 📦 Tech Stack
+
+- Flutter
+- Dart
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Storage
+- Provider for State Management
+
+---
+
+⭐ This project was created as part of my internship to demonstrate full-stack Flutter app development with Firebase.
