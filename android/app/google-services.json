@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671798297958",
+    "project_id": "cloneapp-57b90",
+    "storage_bucket": "cloneapp-57b90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671798297958:android:6ae57f8b0b2734b462f4a7",
+        "android_client_info": {
+          "package_name": "com.yagnaveena.amazon_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCv3pLdjbbP8HCwxe3DpRyy5OESM2GXgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
